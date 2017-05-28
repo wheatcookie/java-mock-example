@@ -1,0 +1,6 @@
+# directory for generated class
+target
+
+# development tools
+.idea
+*.iml
